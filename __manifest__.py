@@ -9,7 +9,7 @@
         - Departments
         - Doctors
     """,
-    "author": "Ahmed Salah",
+    "author": "Mariam Sameh",
     "category": "Healthcare",
     "version": "1.0",
     "depends": ["base", "contacts"],
